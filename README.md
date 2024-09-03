@@ -1,4 +1,2 @@
-# segundo-repositorio
-haciendo cambios pull
-Probando pull
+# segundo-repositori
 #probando gif fetch...
